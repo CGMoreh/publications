@@ -1,6 +1,6 @@
 # Overview
 
-A template file and folder structure for a data analysis project/paper done with R/Rmarkdown/Github. 
+A template file and folder structure for a data analysis project/paper done with R/Rmarkdown/Github. Based on [andreashandel/dataanalysis-template](https://github.com/andreashandel/dataanalysis-template)
 
 # Pre-requisites
 
